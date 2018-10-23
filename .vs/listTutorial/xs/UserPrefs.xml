@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{230A9117-7DE2-0446-B7FD-D92B0BBB41B9}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TeleportPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DisplayButtons.cs">
     <Files>
       <File FileName="Assets/Scripts/ButtonController.cs" Line="6" Column="5" />
       <File FileName="Assets/Scripts/TeleportPlayer.cs" Line="16" Column="2" />
-      <File FileName="Assets/Scripts/DisplayButtons.cs" Line="23" Column="18" />
+      <File FileName="Assets/Scripts/DisplayButtons.cs" Line="89" Column="45" />
       <File FileName="Assets/Scripts/DisplayText.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
